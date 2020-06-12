@@ -1,2 +1,2 @@
 # site-razor-xtreme
- Projeto para desenvolver um site pra oficina do meu amigo
+ Projeto para desenvolver um site pra oficina de eletronicos do meu amigo
