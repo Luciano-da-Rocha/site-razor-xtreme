@@ -12,10 +12,6 @@ body{
 
 }
 
-
-
-
-
 h2{
     color: rgb(0, 0, 0);
     
@@ -25,12 +21,16 @@ h2{
 nav#atividades ul{
     list-style: none;
     position: absolute;
-    top: 2px;
-	left:200px;
+    top: 289px;
+	left:158px;
     text-transform: capitalize;
     background-color: rgb(255, 255, 255);
     padding: 1px 1px 1px 1px;
 }
+nav#atividades h2{
+    font-family: "logo";
+}
+
 nav#atividades li{
 	color: black;
     
@@ -38,6 +38,7 @@ nav#atividades li{
     padding: 1px;
     margin: 1px;
     background-color: rgb(255, 255, 255);
+    
 }
 nav#atividades a{
     text-decoration: none;
@@ -53,7 +54,7 @@ nav#atividades li:hover{
 
 div#interface{
     position: absolute;
-    width: 950px;
+    width: 965px;
     background-color: rgb(255, 255, 255);
     margin: 10px 0px 10px 150px;
     padding: 10px 10px 10px 10px;
@@ -78,8 +79,10 @@ div#interface a:hover{
 }
 div#interface h1{
     margin-bottom: 0px;
+    
     font-size: medium;
     padding: 0px;
+    margin-top:0px;
 }
 div#interface h2{
     margin-top: 0px;
